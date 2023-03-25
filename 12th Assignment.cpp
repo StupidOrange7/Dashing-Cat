@@ -320,7 +320,7 @@ void Menu()
 
 	glColor3f(0.5, 0.0, 1.0);
 	renderBitmapString(270, 210, (void*)font3, "Project By:");
-	renderBitmapString(270, 200, (void*)font3, "Sara Ashraf, Nadine Mohamed, Sara Osama");
+	renderBitmapString(270, 200, (void*)font3, "Sara Ashraf");
 }
 //The Game
 void startGame()
